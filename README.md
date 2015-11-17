@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coruse assignment...assignment.
+Course assignment...assignment.
